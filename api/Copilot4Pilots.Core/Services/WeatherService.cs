@@ -6,7 +6,6 @@ public class WeatherService
 {
   private readonly OpenAIService openAIService;
   private readonly string apiKey;
-  private readonly OpenAIServiceConnectionDetails openAIServiceConnectionDetails;
 
   public WeatherService(string apiKey, OpenAIServiceConnectionDetails openAIServiceConnectionDetails)
   {

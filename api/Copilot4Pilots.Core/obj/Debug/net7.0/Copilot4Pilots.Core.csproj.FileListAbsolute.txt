@@ -1,0 +1,17 @@
+c:\source\repos\Talks\ai-copilot-for-pilots\api\Copilot4Pilots.Core\bin\Debug\net7.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+c:\source\repos\Talks\ai-copilot-for-pilots\api\Copilot4Pilots.Core\bin\Debug\net7.0\Cosmos.CRTCompat.dll
+c:\source\repos\Talks\ai-copilot-for-pilots\api\Copilot4Pilots.Core\bin\Debug\net7.0\msvcp140.dll
+c:\source\repos\Talks\ai-copilot-for-pilots\api\Copilot4Pilots.Core\bin\Debug\net7.0\vcruntime140.dll
+c:\source\repos\Talks\ai-copilot-for-pilots\api\Copilot4Pilots.Core\bin\Debug\net7.0\vcruntime140_1.dll
+c:\source\repos\Talks\ai-copilot-for-pilots\api\Copilot4Pilots.Core\bin\Debug\net7.0\Copilot4Pilots.Core.deps.json
+c:\source\repos\Talks\ai-copilot-for-pilots\api\Copilot4Pilots.Core\bin\Debug\net7.0\Copilot4Pilots.Core.dll
+c:\source\repos\Talks\ai-copilot-for-pilots\api\Copilot4Pilots.Core\bin\Debug\net7.0\Copilot4Pilots.Core.pdb
+c:\source\repos\Talks\ai-copilot-for-pilots\api\Copilot4Pilots.Core\obj\Debug\net7.0\Copilot4Pilots.Core.csproj.AssemblyReference.cache
+c:\source\repos\Talks\ai-copilot-for-pilots\api\Copilot4Pilots.Core\obj\Debug\net7.0\Copilot4Pilots.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\source\repos\Talks\ai-copilot-for-pilots\api\Copilot4Pilots.Core\obj\Debug\net7.0\Copilot4Pilots.Core.AssemblyInfoInputs.cache
+c:\source\repos\Talks\ai-copilot-for-pilots\api\Copilot4Pilots.Core\obj\Debug\net7.0\Copilot4Pilots.Core.AssemblyInfo.cs
+c:\source\repos\Talks\ai-copilot-for-pilots\api\Copilot4Pilots.Core\obj\Debug\net7.0\Copilot4Pilots.Core.csproj.CoreCompileInputs.cache
+c:\source\repos\Talks\ai-copilot-for-pilots\api\Copilot4Pilots.Core\obj\Debug\net7.0\Copilot4Pilots.Core.dll
+c:\source\repos\Talks\ai-copilot-for-pilots\api\Copilot4Pilots.Core\obj\Debug\net7.0\refint\Copilot4Pilots.Core.dll
+c:\source\repos\Talks\ai-copilot-for-pilots\api\Copilot4Pilots.Core\obj\Debug\net7.0\Copilot4Pilots.Core.pdb
+c:\source\repos\Talks\ai-copilot-for-pilots\api\Copilot4Pilots.Core\obj\Debug\net7.0\ref\Copilot4Pilots.Core.dll

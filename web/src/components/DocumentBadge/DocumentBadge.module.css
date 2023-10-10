@@ -1,0 +1,8 @@
+.documentBadge {
+  text-transform: none;
+}
+
+.documentBadge:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}

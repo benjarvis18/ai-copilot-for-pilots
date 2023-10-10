@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "web"
+    },
+    {
+      "path": "api"
+    },
+    {
+      "path": "infra"
+    }
+  ],
+  "settings": {
+    "dotnet.defaultSolution": "web/Copilot4Pilots.sln"
+  }
+}

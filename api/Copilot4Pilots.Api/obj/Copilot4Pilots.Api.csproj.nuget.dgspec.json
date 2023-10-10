@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\source\\repos\\Talks\\ai-copilot-for-pilots\\api\\Copilot4Pilots.Api\\Copilot4Pilots.Api.csproj": {}
+  },
+  "projects": {
+    "c:\\source\\repos\\Talks\\ai-copilot-for-pilots\\api\\Copilot4Pilots.Api\\Copilot4Pilots.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\source\\repos\\Talks\\ai-copilot-for-pilots\\api\\Copilot4Pilots.Api\\Copilot4Pilots.Api.csproj",
+        "projectName": "Copilot4Pilots.Api",
+        "projectPath": "c:\\source\\repos\\Talks\\ai-copilot-for-pilots\\api\\Copilot4Pilots.Api\\Copilot4Pilots.Api.csproj",
+        "packagesPath": "C:\\Users\\bj\\.nuget\\packages\\",
+        "outputPath": "c:\\source\\repos\\Talks\\ai-copilot-for-pilots\\api\\Copilot4Pilots.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "c:\\source\\repos\\Talks\\ai-copilot-for-pilots\\api\\Copilot4Pilots.Core\\Copilot4Pilots.Core.csproj": {
+                "projectPath": "c:\\source\\repos\\Talks\\ai-copilot-for-pilots\\api\\Copilot4Pilots.Core\\Copilot4Pilots.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\source\\repos\\Talks\\ai-copilot-for-pilots\\api\\Copilot4Pilots.Core\\Copilot4Pilots.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\source\\repos\\Talks\\ai-copilot-for-pilots\\api\\Copilot4Pilots.Core\\Copilot4Pilots.Core.csproj",
+        "projectName": "Copilot4Pilots.Core",
+        "projectPath": "c:\\source\\repos\\Talks\\ai-copilot-for-pilots\\api\\Copilot4Pilots.Core\\Copilot4Pilots.Core.csproj",
+        "packagesPath": "C:\\Users\\bj\\.nuget\\packages\\",
+        "outputPath": "c:\\source\\repos\\Talks\\ai-copilot-for-pilots\\api\\Copilot4Pilots.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[3.2.4, )"
+            },
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.35.4, )"
+            },
+            "Microsoft.SemanticKernel": {
+              "target": "Package",
+              "version": "[0.24.230918.1-preview, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
